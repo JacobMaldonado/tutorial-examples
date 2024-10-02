@@ -2,4 +2,4 @@
 
 Para instalar colorama ejecuta
 
-`pip install colorama`
+`pip install colorama`
